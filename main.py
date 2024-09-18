@@ -14,5 +14,7 @@ num_symbols = int(input("How many symbols would you like? "))
 num_numbers = int(input("How many numbers would you like? "))
 
 # DO NOT ERASE ROWS ABOVE!
-# TODO: Make a program that generates a strong password that randomly picks the chosen amount of letters, symbols and numbers
+# Make a program that generates a strong password that randomly picks the chosen amount of letters, symbols and numbers
+# TODO: Easy mode
+# TODO: Hard mode
 
