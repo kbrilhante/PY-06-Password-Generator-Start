@@ -2,8 +2,8 @@ import random
 
 # Password Generator
 
-lower = list('abcdefghijklmnopqrstuvwxyz')
 upper = list('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+lower = list('abcdefghijklmnopqrstuvwxyz')
 numbers = list('0123456789')
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
